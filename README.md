@@ -28,7 +28,7 @@ There are three main features of the website:
 - Generate Braille
   - alphabet characters can be typed into a text box and equivalent braille will be displayed below
 
-Find the site [here](https://alex0blackwell.github.io/pages/braille/index.html) or in the *portfolio* section of my [website](https://alex0blackwell.github.io/)!
+
 
 
 ## Limitations
