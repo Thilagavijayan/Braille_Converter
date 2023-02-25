@@ -38,5 +38,4 @@ There are three main features of the website:
   - [ ] Numbers
   - [ ] Other languages
 
-## License
-Licensed under the [GNU General Public License v3.0](LICENSE)
+
