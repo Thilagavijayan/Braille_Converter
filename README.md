@@ -2,16 +2,12 @@
 
 ## Table of contents
 * [Overview](#overview)
-* [Examples](#examples)
 * [Technologies](#technologies)
 * [Usage](#usage)
 * [Limitations](#limitations)
 
 ## Overview
-This website serves as a way to convert and learn braille. The website uses six dots (two columns, three rows) to represent the bumps found on brialle. To represent a *raised* state, the dot turns a dark colour, otherwise the bump is not raised and remains a light colour. The website features to ability to convert braille to and from English alphabet characters. Additionally, you can test yourself and try to beat your own scores!
-
-## Examples
-
+This website allows you to convert and learn braille. The webpage represents the bumps on brialle with six dots (two columns, three rows). To depict a raised state, the dot becomes dark; otherwise, the bump is not raised and stays light. The website allows you to translate braille characters to and from the English alphabet. You may also put yourself to the test and try to beat your own results!
 
 
 ## Technologies
@@ -21,12 +17,14 @@ This website serves as a way to convert and learn braille. The website uses six 
 ## Usage
 There are three main features of the website:  
 - Braille to Alphabet
-  - you can press on dots to switch them into their *raised* state, and by pressing *convert* the program will determine what alphabet character is represented
+  - You may change the status of the dots by tapping on them, and by hitting *convert*, the computer will decide which alphabet character is represented.
 - Test Yourself
-  - the program will prompt an alphabet character to be represented. If you correctly submit the alphabet character your time will be compared against your top time ever
-  - if the alphabet character entered is wrong, however, the correct character will be shown
+  - The application will prompt you to represent an alphabet character. If you input the alphabet character properly, your time will be compared to your best time ever.
+  - If the alphabet character supplied is incorrect, the correct character will be shown.
 - Generate Braille
-  - alphabet characters can be typed into a text box and equivalent braille will be displayed below
+  - When alphabet characters are entered into a text field, the equivalent braille is shown underneath.
+  
+## Screenshots
 
 
 
